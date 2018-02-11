@@ -1,0 +1,13 @@
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLDuAn.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLNhanvien.resources
+E:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmQLPhongBan.resources
